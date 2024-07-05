@@ -39,9 +39,9 @@ print("\nContext Vector:\n", context_vector)
 
 The example.py file demonstrates how to integrate and use the attention mechanism (AttentionMechanism) in a simple neural network scenario. Adjust the input data (inputs) based on your specific use case or experiment.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+##Contributing
 Contributions are welcome! If you have ideas for improvements or find any issues, please open an issue or submit a pull request on GitHub.
 
